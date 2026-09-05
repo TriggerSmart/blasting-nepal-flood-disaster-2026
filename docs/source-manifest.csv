@@ -1,0 +1,57 @@
+order,section,label,url,type,status
+R01,1,Guardian visual reconstruction,https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-flood-visual-guide-why-how-flooding-happened-floods-cause-reason-explained,Visual guide,Verified / live
+R02,1,Reuters first-day glacier analysis,https://www.reuters.com/business/environment/glacier-collapse-may-have-triggered-deadly-nepal-flash-flood-experts-say-2026-08-26/,News / science,Verified / live
+R03,1,Hydraulic Record — seismic section,https://www.youtube.com/watch?v=9pH_3n23_8o&t=40s,Video @ 0:40,Verified / live
+R04,2,Guardian 2:02 timeline explainer,https://www.theguardian.com/world/video/2026/aug/27/timeline-of-how-deadly-nepal-and-tibet-flash-flood-unfolded-explainer,Video explainer,Verified / live
+R05,2,Rasuwa Flood corridor map,https://rasuwaflood.org/,Interactive map,Verified / live
+R06,2,Hydraulic Record — route section,https://www.youtube.com/watch?v=9pH_3n23_8o&t=93s,Video @ 1:33,Verified / live
+R07,3,Rasuwa Flood technical source record,https://rasuwaflood.org/,Map / technical index,Verified / live
+R08,3,AP satellite interpretation,https://apnews.com/article/b3eda9410f9941f69add384944047bc3,Satellite analysis,Verified / live
+R09,3,Reuters first-day source analysis,https://www.reuters.com/business/environment/glacier-collapse-may-have-triggered-deadly-nepal-flash-flood-experts-say-2026-08-26/,Science / source analysis,Verified / live
+R10,4,Guardian cause explainer,https://www.theguardian.com/world/2026/aug/27/what-caused-the-catastrophic-flash-flood-in-nepal-and-tibet-and-how-does-a-glacier-collapse,Science explainer,Verified / live
+R11,4,Guardian visual reconstruction,https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-flood-visual-guide-why-how-flooding-happened-floods-cause-reason-explained,Visual guide,Verified / live
+R12,4,Hydraulic Record — seismic record,https://www.youtube.com/watch?v=9pH_3n23_8o&t=40s,Video @ 0:40,Verified / live
+R13,5,Rasuwa Flood interactive map,https://rasuwaflood.org/,Interactive map,Verified / live
+R14,5,Guardian mapped visual guide,https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-flood-visual-guide-why-how-flooding-happened-floods-cause-reason-explained,Mapped explainer,Verified / live
+R15,5,Reuters downstream devastation,https://www.reuters.com/business/environment/flood-ravaged-nepal-valley-nothing-is-left-standing-2026-09-03/,Field reporting,Verified / live
+R16,6,Reuters Trishuli valley field report,https://www.reuters.com/business/environment/flood-ravaged-nepal-valley-nothing-is-left-standing-2026-09-03/,Field report,Verified / live
+R17,6,Guardian initial disaster reporting,https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-flood-visual-guide-why-how-flooding-happened-floods-cause-reason-explained,Visual report,Verified / live
+R18,6,Rasuwa Flood archive & maps,https://rasuwaflood.org/,Evidence archive,Verified / live
+R19,7,Reuters hydropower project inventory,https://www.reuters.com/world/asia-pacific/nepal-hydropower-sites-centre-flood-rescue-efforts-2026-08-31/,Project list,Verified / live
+R20,7,AP — workers feared trapped in tunnels,https://apnews.com/article/744fe6e15ae7751e15efcd6dff70170c,Rescue reporting,Verified / live
+R21,7,Rasuwa Flood project/source archive,https://rasuwaflood.org/,Map / source archive,Verified / live
+R22,8,IFC Upper Trishuli-1 disclosure,https://disclosures.ifc.org/project-detail/ESRS/35701/upper-trishuli-1,Primary project disclosure,Verified / live
+R23,8,Nepal government UT-1 SEIA PDF,https://giwmscdntwo.gov.np/media/pdf_upload/UT1_216_SEIA_7days_xk5ax9h.pdf,Primary PDF,Verified / live
+R24,8,May 2026 UT-1 construction progress,https://ekantipur.com/business/2026/05/28/physical-progress-of-upper-trishuli-1-is-82-percent-installation-of-beer-gate-and-testing-of-dam-completed-43-13.html,Project progress,Verified / live
+R25,9,Reuters hydropower sites / 3A rescue blasting,https://www.reuters.com/world/asia-pacific/nepal-hydropower-sites-centre-flood-rescue-efforts-2026-08-31/,Rescue report,Verified / live
+R26,9,Reuters Sep. 4 tunnel rescues,https://www.reuters.com/world/china/two-people-pulled-alive-nepal-hydropower-tunnel-2026-09-04/,Breaking update,Verified / live
+R27,9,Guardian tunnel rescue account,https://www.theguardian.com/world/2026/sep/05/rescue-of-nepal-hydropower-workers-triumph-for-humans-and-humanity-tunnelling-expert-says,Rescue analysis,Verified / live
+R28,10,Reuters full hydropower rescue list,https://www.reuters.com/world/asia-pacific/nepal-hydropower-sites-centre-flood-rescue-efforts-2026-08-31/,Project inventory,Verified / live
+R29,10,AP — hydropower tunnels and affected projects,https://apnews.com/article/744fe6e15ae7751e15efcd6dff70170c,Project / rescue report,Verified / live
+R30,10,Rasuwa Flood map + source archive,https://rasuwaflood.org/,Map / archive,Verified / live
+R31,11,Seed video — Nepal Catastrophe,https://www.youtube.com/watch?v=5uuDFLtVlds&t=0s,Video @ 0:00,Verified / live
+R32,11,IFC — “significant blasting” disclosure,https://disclosures.ifc.org/project-detail/ESRS/35701/upper-trishuli-1,Primary disclosure,Verified / live
+R33,11,Nepal SEIA — explosive bunkers / tunnel blasting,https://giwmscdntwo.gov.np/media/pdf_upload/UT1_216_SEIA_7days_xk5ax9h.pdf,Primary PDF,Verified / live
+R34,12,Rasuwa source coordinate / corridor,https://rasuwaflood.org/,Technical map,Verified / live
+R35,12,IFC UT-1 project description,https://disclosures.ifc.org/project-detail/ESRS/35701/upper-trishuli-1,Project geography,Verified / live
+R36,12,Reuters hydro project corridor list,https://www.reuters.com/world/asia-pacific/nepal-hydropower-sites-centre-flood-rescue-efforts-2026-08-31/,Project locations,Verified / live
+R37,13,IFC blasting management record,https://disclosures.ifc.org/project-detail/ESRS/35701/upper-trishuli-1,Primary disclosure,Verified / live
+R38,13,Nepal SEIA controlled-blasting controls,https://giwmscdntwo.gov.np/media/pdf_upload/UT1_216_SEIA_7days_xk5ax9h.pdf,Primary PDF,Verified / live
+R39,13,Ray — “what this means / doesn’t”,https://www.youtube.com/watch?v=XwiVhF8GE9E&t=900s,Video @ 15:00,Verified / live
+R40,14,Ray — standing at / locating source area,https://www.youtube.com/watch?v=XwiVhF8GE9E&t=60s,Video @ 1:00,Verified / live
+R41,14,AP satellite: bedrock + glacier collapse,https://apnews.com/article/b3eda9410f9941f69add384944047bc3,Satellite analysis,Verified / live
+R42,14,Rasuwa source & corridor mapping,https://rasuwaflood.org/,Technical map,Verified / live
+R43,15,Ray — 20 months of radar data,https://www.youtube.com/watch?v=XwiVhF8GE9E&t=660s,Video @ 11:00,Verified / live
+R44,15,Rasuwa technical assessment index,https://rasuwaflood.org/,Technical archive,Verified / live
+R45,15,Reuters glacier / warming analysis,https://www.reuters.com/business/environment/glacier-collapse-may-have-triggered-deadly-nepal-flash-flood-experts-say-2026-08-26/,Science reporting,Verified / live
+R46,16,Reuters Aug. 31 — rescue blasting at 3A,https://www.reuters.com/world/asia-pacific/nepal-hydropower-sites-centre-flood-rescue-efforts-2026-08-31/,Rescue report,Verified / live
+R47,16,Reuters Sep. 3 — controlled blasts in valley,https://www.reuters.com/business/environment/flood-ravaged-nepal-valley-nothing-is-left-standing-2026-09-03/,Field report,Verified / live
+R48,16,Guardian Sep. 5 — explosives used in rescue,https://www.theguardian.com/world/2026/sep/05/rescue-of-nepal-hydropower-workers-triumph-for-humans-and-humanity-tunnelling-expert-says,Rescue analysis,Verified / live
+R49,17,Reuters Sep. 5 live rescue update,https://www.reuters.com/world/china/chinese-national-rescued-nepal-tunnel-day-after-2-nepalis-pulled-out-alive-2026-09-05/,Current update,Verified / live
+R50,17,AP Sep. 5 rescue update,https://apnews.com/article/f9a6d181a30af8366700e47e498ec3b1,Current update,Verified / live
+R51,17,Reuters Sep. 4 two-worker rescue,https://www.reuters.com/world/china/two-people-pulled-alive-nepal-hydropower-tunnel-2026-09-04/,Rescue update,Verified / live
+R52,17,Reuters search-operations explainer,https://www.reuters.com/business/environment/how-are-search-operations-progressing-nepal-week-after-deadly-flash-flood-2026-09-02/,Search status,Verified / live
+R53,18,Reuters — Nepal sought China warning/data access,https://www.reuters.com/business/environment/before-flood-catastrophe-nepal-asked-china-early-warnings-risks-mounted-2026-08-30/,Investigative report,Verified / live
+R54,18,Chinese Foreign Ministry response,https://us.china-embassy.gov.cn/eng/fyrth/202608/t20260831_12013253.htm,Primary government statement,Verified / live
+R55,18,Rasuwa Flood evidence archive,https://rasuwaflood.org/,Source archive,Verified / live
+R56,18,Viral-video fact-check reminder,https://www.thejournal.ie/nepal-flood-fake-videos-ai-debunked-7148762-Sep2026/,Fact check,Verified / live
